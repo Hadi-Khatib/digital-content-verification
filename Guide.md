@@ -114,6 +114,21 @@ D. Check out previous pictures, and videos.
 E. How many followers, friends, or subscribers they have?
 F. Who are they following?
 
+Example:
+
+Lets say someone shared a YouTube video on a specific platform about a human rights violation incident. First thing you need to do is to go the YouTube profile of this user. In this case below, you will see that his name is Yasser Al-Doumani. He has been uploading daily videos about human rights violations in Syria which are all located in Damascus Suburbs. We understand from this  that he is a Syrian journalist, most probably based in Damascus Suburbs.
+
+photo
+
+Check out about page on his YouTube profile. You will see other websites linked to him. In this case you will see that he has 590 subscribers. He joined in 1 January 2014. His profile has 281,169 views.
+Also you can see two linked URLs to the Facebook pages of a coordination group in Damascus Suburbs which usually do media work. The description says that this YouTube channel is dedicated to Douma Coordination group. All this information provides more clarity as to whetherthis account is fake or not. In this case, the account is authentic. 
+
+photo
+
+[3] If you are looking into visual evidence such as photo or video, you need to investigate whether this is the original content, how it is used and if modified copies exist. 
+
+
+
 
 
 
