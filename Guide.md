@@ -69,3 +69,13 @@ Some of these services don't implement secure connection to the internet which m
 
 
 
+
+
+## Checking Provenance
+
+It is essential that human rights investigators confirm the authenticity of any information or content they get through the internet via social media websites or other platforms as it can be easily fabricated. For example it is very easy to fake a tweet through the  website below, which can then be shared as a picture. 
+URL: letmetweetthatforyou.com
+
+
+
+
