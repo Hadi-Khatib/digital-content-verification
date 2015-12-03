@@ -134,6 +134,15 @@ For images using reverse image search tools such as TinEye or Google Images, is 
 **Important note: Make sure that you read our saftey guide on how to carry on online investigation securely before using this tool.**
 [link to the safety chapter]
 
+**Tool:** TinEye
+**Website:** https://www.tineye.com/ 
+
+This is an example of how TinEye works:
+
+[1] Go toTinEye's website: https://www.tineye.com/ 
+
+[2] Upload the image you want to search for. We will use the photo taken by the Norwegian film director from the earlier example.
+
 
 
 
