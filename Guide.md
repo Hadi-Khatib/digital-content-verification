@@ -76,6 +76,46 @@ Some of these services don't implement secure connection to the internet which m
 It is essential that human rights investigators confirm the authenticity of any information or content they get through the internet via social media websites or other platforms as it can be easily fabricated. For example it is very easy to fake a tweet through the  website below, which can then be shared as a picture. 
 URL: letmetweetthatforyou.com
 
+photo
+
+The image above can then be shared on twitter which will make it appear as original tweet.
+
+photo
+
+
+Fakers can also retweet fake information such as: (Good news! RT@PresidentSY I'm announcing my retirement from politics).
+
+They can also add a blue verification check mark to the cover photo of the faked accounts. 
+
+Here are few steps to check the authenticity of the content:
+
+[1] Facebook, Twitter and YouTube have a way of verifying personal profiles or pages through blue tick which is normally added to personal profiles or social media pages. Hover over the blue tick, and you will see the text “verified account” pop up. If it’s not there, then it is not a verified account.
+
+Twitter verified account looks like:
+
+photo
+
+Facebook verified account:
+
+photo
+
+Youtube verified account:
+
+But we can't depend on these official verification programmes as it's not available for all users, as a result we end up most of the time checking profiles or pages that do not include any blue tick on it. 
+
+[2]  Check out details available on the profile to confirm that it's original and not fake.
+
+**Things to think about:**
+
+A. Are there any linked websites to this profile?
+B. Check out the previous pictures and videos.
+C. If they share content, where do they post about/from usually?
+D. Check out previous pictures, and videos.
+E. How many followers, friends, or subscribers they have?
+F. Who are they following?
+
+
+
 
 
 
