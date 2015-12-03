@@ -44,7 +44,7 @@ The same thing happened when the U.S. Senate Intelligence Committee released a p
 
 A number of these videos were taken from a well-known Syrian media aggregator,ShaamNetwork S.N.N,YouTube channel which regularly republishes videos from other people’s channels.  Using a range of different verification techniques, Félim McMahon from Storyful was able to discover the original versions of these videos. This is a very good example of how verified videos can be used to strengthen the process of investigating an incident. 
 
-**One of the key issues in verification is confirming:
+**One of the key issues in verification is confirming:**
 
 - Provenance: Is this the original piece of content?
 - Source: Who uploaded the content?
