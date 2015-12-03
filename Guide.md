@@ -135,6 +135,7 @@ For images using reverse image search tools such as TinEye or Google Images, is 
 [link to the safety chapter]
 
 **Tool:** TinEye
+
 **Website:** https://www.tineye.com/ 
 
 This is an example of how TinEye works:
