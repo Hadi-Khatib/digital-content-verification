@@ -53,4 +53,9 @@ A number of these videos were taken from a well-known Syrian media aggregator,Sh
 
 In this chapter we will go through the above elements, which are essential in verification, and will help human rights investigators gain skills, knowledge and tools to work together on verifying data. 
 
+**Why we are using Syria as a case study?**
+
+All examples in this chapter are coming from the Syrian context because hundreds of thousands videos and pictures during the conflict have been produced by media activists documenting all sort of atrocities and crimes the Syrian population has been suffering because of the civil war. 
+
+Journalists from Syria, and other countries have been puting lots of efforts to verify this digital content as there has been many incidents of fabricated content. We though that this would be a good context where we can learn from many incidents that have emerged.
 
