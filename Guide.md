@@ -59,3 +59,10 @@ All examples in this chapter are coming from the Syrian context because hundreds
 
 Journalists from Syria, and other countries have been puting lots of efforts to verify this digital content as there has been many incidents of fabricated content. We though that this would be a good context where we can learn from many incidents that have emerged.
 
+**Security concerns**
+
+As you will while going through the chapter, we will be featuring tools and services that can help you out to verify digital content generated online. Most of these tools belong to private companies, and they are closed source. This means that when uploading content to these services, you won't be able to control how these companies use this contect, and to whome they share it with. 
+Some of these services don't implement secure connection to the internet which might put you at risk. Also your location will be exposed on these sites if you don't hide it. We will go into details of how you can protect yourself while carrying out an online investigation. 
+
+
+
