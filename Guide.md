@@ -143,11 +143,3 @@ This is an example of how TinEye works:
 [1] Go toTinEye's website: https://www.tineye.com/ 
 
 [2] Upload the image you want to search for. We will use the photo taken by the Norwegian film director from the earlier example.
-
-
-
-
-
-
-
-
