@@ -156,7 +156,9 @@ For example, a JPEG that has been resized, recompressed, and changed from the or
 
 There's a different technique to analyse an image which is called ELA (error-level analysis). It's a forensic method to identify portions of an image with a different level of compression.  
 
- or its metadata, visit findexif.com, fotoforensics.com, and Izitru. 
+ or its metadata, visit fotoforensics.com
+FotoForensics is a toolbox that provides a suite of photo analysis tools. The public site (which he used) permits viewing metadata, visualizing the JPEG error level potential, and identifying the last-saved JPEG quality.
+FotoForensics is that it does not draw any conclusions. Nothing says "it's photoshopped" or "it's real". The website highlights artifacts that may not be otherwise visible in the picture.
 
 
 
