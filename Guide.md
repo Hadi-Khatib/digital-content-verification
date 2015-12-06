@@ -160,6 +160,11 @@ One of the websites that is helpful to pull out metadata is http://fotoforensics
 
 You can upload the image on the FotoForensics website, or enter the URL of where the image is stored online image, then click on 'Metadata' where you will see the the information below the image. In this case, the image uploaded was taken from MMC  marramedia center in Syria which is run by activists in that area. The photo shows remains of the weapons used recently In Idlib.
 
+Photo
+
+There are applications that can be useful to capture the date of the video or photo automatically as well as capturing other important pieces such as GPS data. One such application is CameraV which we introduced in the Metadata chapter of this guide. 
+Camera V: https://guardianproject.info/apps/camerav/ 
+
 
 
 
