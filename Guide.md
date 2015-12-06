@@ -283,6 +283,15 @@ Below are the results that you get by running whois on a website such as www.exa
 
 photo
 
+## Confirming the date of the event:
+
+Verifying the date is one of the most important elements of verification, there are key questions which you need to consider when finding visual evidence online:
+- When was the content created?
+- When did the incident happen?
+
+This is made easier when  people in the video mentioned the date of when the event happened, or show newspapers or write the date on a piece of paper to show it  to the camera such as the example below. 
+
+
 
 ## Tools, and resources to look at
 
