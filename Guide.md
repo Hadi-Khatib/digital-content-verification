@@ -166,8 +166,9 @@ FotoForensics is that it does not draw any conclusions. Nothing says "it's photo
 
 
 
-Tools, and resources to look at:
-http://graph.tips/
+## Tools, and resources to look
+
+at:http://graph.tips/
 
 http://pleasedontstalkme.com/
 
