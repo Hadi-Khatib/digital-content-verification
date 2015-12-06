@@ -155,7 +155,11 @@ There's also a possibility to verify the dates and location of images if it's in
 
 Every image has "metadata" attached to it (read more in chapter 6) which includes information about the type of device the image was taken on, camera settings, date and sometimes location information. 
 
-One of the websites that is helpful to pull out metadata is http://fotoforensics.com/ where you can upload the image you want to analyse for metadata. This works best if you get a raw photo from the source to be able to analyse it. You won't get the same results when analysing images taken from social media networks such as Facebook, Twitter and Instagram as they strip most metadata when the images are uploaded to their platforms.
+One of the websites that is helpful to pull out metadata is http://fotoforensics.com/ 
+**FotoForensics** is a toolbox that provides a suite of photo analysis tools. The public site permits viewing metadata, visualizing the JPEG error level potential, and identifying the last-saved JPEG quality.
+FotoForensics does not draw any conclusions. Nothing says "it's photoshopped" or "it's real". The website highlights artifacts that may not be otherwise visible in the picture.
+
+You can upload the image you want to analyse for metadata. This works best if you get a raw photo from the source to be able to analyse it. You won't get the same results when analysing images taken from social media networks such as Facebook, Twitter and Instagram as they strip most metadata when the images are uploaded to their platforms.
 
 **Example:**
 
@@ -171,8 +175,7 @@ photo - last program opened - Maybe image was resized.
 
 There's a different technique to analyse an image which is called ELA (error-level analysis). It's a forensic method to identify portions of an image with a different level of compression. You can do this through fotoforensics.com as well.
 
-**FotoForensics** is a toolbox that provides a suite of photo analysis tools. The public site permits viewing metadata, visualizing the JPEG error level potential, and identifying the last-saved JPEG quality.
-FotoForensics does not draw any conclusions. Nothing says "it's photoshopped" or "it's real". The website highlights artifacts that may not be otherwise visible in the picture.
+
 
 > Photo - from Gabi
 
