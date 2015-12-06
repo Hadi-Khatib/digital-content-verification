@@ -169,9 +169,16 @@ Photo
 
 The results are not always clear, however, and depending on the copy of the file uploaded. 
 
-For example, a JPEG that has been resized, recompressed, and changed from the original file will have much less reliable data than the original full-resolution image recorded by a camera. However if an image was edited by photoshop by the originator, it doesn't necessarily mean that it was manipulated.
+For example, a JPEG that has been resized, recompressed, and changed from the original file will have much less reliable data than the original full-resolution image recorded by a camera. **However if an image was edited by photoshop by the originator, it doesn't necessarily mean that it was manipulated.** http://www.izitru.com/ is a tool that could help you figuer out of the image is modified or not. 
 
-photo - last program opened - Maybe image was resized. 
+**Example:**
+You can upload an image on Izitru to make sure if it's not manipulated or edited. So this will help you to confirm if this is a raw image or if it has been edited. 
+
+photo -
+
+In this image below, Izitru tells that this is not the original image, and that the image has been edited.
+
+photo
 
 There's a different technique to analyse an image which is called ELA (error-level analysis). It's a forensic method to identify portions of an image with a different level of compression. You can do this through fotoforensics.com as well.
 
