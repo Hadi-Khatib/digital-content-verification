@@ -153,9 +153,9 @@ photo - higher quality
 There are various free tools that will analyse a photograph’s metadata and compression information, allowing further verification of an images veracity. 
 There's also a possibility to verify the dates and location of images if it's included in the metadata of the image. 
 
-Every image has metadata attached to it (read more in chapter 6) which includes information about the type of device the image was taken on, camera settings, date and sometimes location information. 
+Every image has "metadata" attached to it (read more in chapter 6) which includes information about the type of device the image was taken on, camera settings, date and sometimes location information. 
 
-One of the websites that is helpful to pull out metadata is http://fotoforensics.com/ where you can upload the image you want to analyse for metadata. This works best if you get a raw photo from the source to able to analyse  as most social media networks such as Facebook, Twitter and  Instagram strip most metadata when the images are uploaded to their platforms.
+One of the websites that is helpful to pull out metadata is http://fotoforensics.com/ where you can upload the image you want to analyse for metadata. This works best if you get a raw photo from the source to be able to analyse it. You won't get the same results when analysing images taken from social media networks such as Facebook, Twitter and Instagram as they strip most metadata when the images are uploaded to their platforms.
 
 **Example:**
 
