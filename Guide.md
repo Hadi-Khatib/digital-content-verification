@@ -263,7 +263,21 @@ In our example, the person works in a local media center in a city called Al-Saf
 
 You can use a different technique to check  the source in cases where you don't find the name of the person who uploaded the content online through social media platforms. The technique is  often usedwhen you are looking at verifying information that has been uploaded onto a website, rather than not social media platforms. 
 
+**Example**:
 
+If you are looking at a website that contains information that you would like to verify, but the website doesn't include the name of person who runs it, or if  you want to find more information about the person who runs the website such as their locationor phone number, then you can use a number of online services that could tell you this information. [whois service to find this info]. 
+
+There are many websites online who offers this service such as: https://who.is/ 
+most of the domain registration websites offers this service as well, but sometimes they had some of it while https://who.is/ doesn't. 
+
+Below are the results that you get by running whois on a website such as www.example.org  This information include:
+
+- Name of the person who registered the websites
+- His/her address
+- Phone number
+- Email (The email below was obfuscated, but usually you can find clear email as username@domainname.com )
+
+photo
 
 
 ## Tools, and resources to look at
