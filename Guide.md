@@ -232,6 +232,10 @@ Few questions to think about when checking a specific account to confirm if it's
 - How long have these accounts been active? How active are they?
 - What information do affiliated accounts contain that indicate recent location, activity, reliability, bias or agenda of the account holder?
 
+Once you have some answers of the questions above, such as: Name of the uploader from his or her YouTube channel, or linked websites to the uploader social media accounts, then you can use tools to get more information about the source. 
+
+For example if you have the name or username of the person who uploaded the content online (YouTube, Facebook, Twitter, etc) then you can run their name through a service called Webmii
+to find more information about them from websites, news outlets and social media accounts.
 
 
 ## Tools, and resources to look at
