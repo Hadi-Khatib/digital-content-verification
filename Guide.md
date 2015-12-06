@@ -144,6 +144,18 @@ This is an example of how TinEye works:
 
 [2] Upload the image you want to search for. We will use the photo taken by the Norwegian film director from the earlier example.
 
+photo
+
+[3] We sort the filter by the “oldest” which will lead us to the people who used this image first, or to the originator of the image. You can also sort by “Biggest Image” because sometimes the first hand originator will be the one uploading high quality version of the image. In this case below, we see that this image was first used by a Norwegian online news website. 
+
+photo - higher quality
+
+There are various free tools that will analyse a photograph’s metadata and compression information, allowing further verification of an images veracity. The results are not always clear, however, and depending on the copy of the file uploaded. For example, a JPEG that has been resized, recompressed, and changed from the original file will have much less reliable data than the original full-resolution image recorded by a camera. Still, if you would like to try to analyze an image through ELA (error-level analysis) or its metadata, visit findexif.com, fotoforensics.com, and Izitru. 
+
+
+
+
+
 
 
 Tools, and resources to look at:
