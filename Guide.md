@@ -222,7 +222,15 @@ A quick investigation of the account's avatar reveals that the Twitter account i
 
 After copying the URL of the avatar of @LusDgrm166  or downloading the avatar, paste the link/photo into a reverse Google image search to find similar pictures elsewhere online. As you can see in the image of the search results below, the image has been used by many twitter users as their profile image. 
 
+Few questions to think about when checking a specific account to confirm if it's the original source:
 
+- Has the account holder been reliable in the past?
+- Where is the uploader based? 
+- Are videos or photos descriptions consistent and mostly from a specific location? 
+- Is their logo consistent across the videos?
+- Does the uploader "scrape" videos/photos, or do they  upload solely user-generated content?
+- How long have these accounts been active? How active are they?
+- What information do affiliated accounts contain that indicate recent location, activity, reliability, bias or agenda of the account holder?
 
 
 
