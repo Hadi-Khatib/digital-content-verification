@@ -189,6 +189,26 @@ Camera V: https://guardianproject.info/apps/camerav/
 
 ## Videos
 
+You can check the original person who uploaded a video on Youtube. If you come across a specific video, and you want to get to the original uploader of this video then you need to use the filter, and sort by upload date as shown below. In this case, we got a video from social media showing alleged chemical attacks in Idlib province, in Syria. By typing the title of the video in the search, and sorting by “Upload date” we get to the account of the original uploader which is “Sarmeen Coordination group”. 
+As we mentioned earlier, you need also to check for any linked websites to their channel, number of subscribers, and viewers to make sure that this is not a fake channel.
+
+“Sarmeen Coordination Group” had 2,074 subscribers, over a million views and around 3000 followers on Twitter. They also have been sharing visual evidence from the location for the last four r years. Taken together we can confidentially verify  that the original source, the “Sarmeen Coordination Group”, was the original source of the video. 
+
+Photo
+
+There are no services available for reverse video searches as we saw with Google image reverse orTinEye, so it's not as easy to verify the provenance of the video and it's original source, but there are ways in which you can  carry out a reverse-verification of a video to see if the video has been used and shared in the past or not. This requires you to capture a screenshot of the video at an  important moment to get the best results (the most opportune moment to capture the screenshot is when an incident happens) or you can capture a screenshot of the video thumbnail as it could have been used previously on YouTube or other video hosting services. Then you can run the captured screenshot through TinEye or Google image reverse as we did earlier in this chapter. 
+
+Amnesty International created a tool that will help you implement this technique which you can find here. https://www.amnestyusa.org/citizenevidence/
+
+**Example:**
+
+Enter the YouTube URL that you are interested in, as seen in the example below, then select Go to get Thumbnails which you can then run a reverse image search on.
+
+photo
+
+In this case, this video which has been uploaded by “Abu Shadi AlSafrany” who works in a local media center in a city called Al-Safira. They  haven't been shared online before which means that the videos haven't been used in different countries or contexts. Once you verify that a video is unique, it will be important then to verify the location and the date of the incident to make sure that the video is not fabricated. Specifically that sometimes reverse image searches do not always reveal any duplication of videos or photos so there's a need to carry on other forms of verification.
+
+
 
 
 
