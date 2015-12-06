@@ -150,7 +150,21 @@ photo
 
 photo - higher quality
 
-There are various free tools that will analyse a photograph’s metadata and compression information, allowing further verification of an images veracity. The results are not always clear, however, and depending on the copy of the file uploaded. 
+There are various free tools that will analyse a photograph’s metadata and compression information, allowing further verification of an images veracity. 
+There's also a possibility to verify the dates of images if it's included in the metadata of the image. 
+Every image has metadata attached to it (read more in chapter 6) which includes information about the type of device the image was taken on, camera settings, date and sometimes location information. 
+
+One of the websites that is helpful to pull out metadata is http://fotoforensics.com/ where you can upload the image you want to analyse for metadata. This works best if you get a raw photo from the source to able to analyse  as most social media networks such as Facebook, Twitter and  Instagram strip most metadata when the images are uploaded to their platforms.
+
+**Example:**
+
+You can upload the image on the FotoForensics website, or enter the URL of where the image is stored online image, then click on 'Metadata' where you will see the the information below the image. In this case, the image uploaded was taken from MMC  marramedia center in Syria which is run by activists in that area. The photo shows remains of the weapons used recently In Idlib.
+
+
+
+
+
+The results are not always clear, however, and depending on the copy of the file uploaded. 
 
 For example, a JPEG that has been resized, recompressed, and changed from the original file will have much less reliable data than the original full-resolution image recorded by a camera. However if an image was edited by photoshop by the originator, it doesn't necessarily mean that it was manipulated.
 
