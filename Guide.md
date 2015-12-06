@@ -128,6 +128,7 @@ photo
 [3] If you are looking into visual evidence such as photo or video, you need to investigate whether this is the original content, how it is used and if modified copies exist. 
 
 ## Images
+
 For images using reverse image search tools such as TinEye or Google Images, is useful to find out if the image you are looking at has been posted online previously.
 
 **Important note: Make sure that you read our saftey guide on how to carry on online investigation securely before using this tool.**
