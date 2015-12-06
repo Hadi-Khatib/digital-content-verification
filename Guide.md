@@ -150,7 +150,11 @@ photo
 
 photo - higher quality
 
-There are various free tools that will analyse a photograph’s metadata and compression information, allowing further verification of an images veracity. The results are not always clear, however, and depending on the copy of the file uploaded. For example, a JPEG that has been resized, recompressed, and changed from the original file will have much less reliable data than the original full-resolution image recorded by a camera. Still, if you would like to try to analyze an image through ELA (error-level analysis) or its metadata, visit findexif.com, fotoforensics.com, and Izitru. 
+There are various free tools that will analyse a photograph’s metadata and compression information, allowing further verification of an images veracity. The results are not always clear, however, and depending on the copy of the file uploaded. 
+
+For example, a JPEG that has been resized, recompressed, and changed from the original file will have much less reliable data than the original full-resolution image recorded by a camera. However if an image was edited by photoshop by the originator that this doesn't necessarily mean that it was manipulated.
+
+Still, if you would like to try to analyze an image through ELA (error-level analysis) or its metadata, visit findexif.com, fotoforensics.com, and Izitru. 
 
 
 
