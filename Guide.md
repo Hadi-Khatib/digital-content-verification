@@ -160,7 +160,7 @@ There's a different technique to analyse an image which is called ELA (error-lev
 FotoForensics is a toolbox that provides a suite of photo analysis tools. The public site (which he used) permits viewing metadata, visualizing the JPEG error level potential, and identifying the last-saved JPEG quality.
 FotoForensics is that it does not draw any conclusions. Nothing says "it's photoshopped" or "it's real". The website highlights artifacts that may not be otherwise visible in the picture.
 
-
+Photo - from Gabi
 
 
 
