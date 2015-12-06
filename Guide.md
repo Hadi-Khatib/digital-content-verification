@@ -152,7 +152,7 @@ photo - higher quality
 
 There are various free tools that will analyse a photograph’s metadata and compression information, allowing further verification of an images veracity. The results are not always clear, however, and depending on the copy of the file uploaded. 
 
-For example, a JPEG that has been resized, recompressed, and changed from the original file will have much less reliable data than the original full-resolution image recorded by a camera. However if an image was edited by photoshop by the originator that this doesn't necessarily mean that it was manipulated.
+For example, a JPEG that has been resized, recompressed, and changed from the original file will have much less reliable data than the original full-resolution image recorded by a camera. However if an image was edited by photoshop by the originator, it doesn't necessarily mean that it was manipulated.
 
 There's a different technique to analyse an image which is called ELA (error-level analysis). It's a forensic method to identify portions of an image with a different level of compression.  
 
