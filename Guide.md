@@ -234,8 +234,36 @@ Few questions to think about when checking a specific account to confirm if it's
 
 Once you have some answers of the questions above, such as: Name of the uploader from his or her YouTube channel, or linked websites to the uploader social media accounts, then you can use tools to get more information about the source. 
 
-For example if you have the name or username of the person who uploaded the content online (YouTube, Facebook, Twitter, etc) then you can run their name through a service called Webmii
-to find more information about them from websites, news outlets and social media accounts.
+For example if you have the name or username of the person who uploaded the content online (YouTube, Facebook, Twitter, etc) then you can run their name through a service called Webmii to find more information about them from websites, news outlets and social media accounts.
+
+
+**Most importantly connect with the source directly to get information verified when possible, and make sure to ask "How do they know a specific info". They might be able to send you additional photos, and videos to help you verify a specific incidents. Make sure that you connect to sources securely so you don't put them at risk**. _Read about this more in chapter ......_
+
+**Example:**
+
+You found visual evidence on YouTube, but you don't know the uploader, you don't know if he's the original source, and you don't know if he's located in the area where the footage was taken.
+
+photo
+
+You can get more information about this source by running his name on Webmii as below:
+
+photo
+
+You will find most of the photos or videos that he uploaded online
+
+photo
+
+
+You will also find other digital content from different social media accounts that he shared online, or that others shared with him.
+
+photo
+
+This will give you a better understanding if this source is reliable or not, specially if you find information that answers the questions we have mentioned above to verify the source. 
+In our example, the person works in a local media center in a city called Al-Safira. He has been doing this for years from the same location which gives him more credibility. 
+
+You can use a different technique to check  the source in cases where you don't find the name of the person who uploaded the content online through social media platforms. The technique is  often usedwhen you are looking at verifying information that has been uploaded onto a website, rather than not social media platforms. 
+
+
 
 
 ## Tools, and resources to look at
