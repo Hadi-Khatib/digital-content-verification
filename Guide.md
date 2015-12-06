@@ -267,15 +267,18 @@ You can use a different technique to check  the source in cases where you don't 
 
 If you are looking at a website that contains information that you would like to verify, but the website doesn't include the name of person who runs it, or if  you want to find more information about the person who runs the website such as their locationor phone number, then you can use a number of online services that could tell you this information. [whois service to find this info]. 
 
-There are many websites online who offers this service such as: https://who.is/ 
-most of the domain registration websites offers this service as well, but sometimes they had some of it while https://who.is/ doesn't. 
 
-Below are the results that you get by running whois on a website such as www.example.org  This information include:
+When you are registering your domain name with a domain provider they will usually ask you for a number of identifying details such as:
 
 - Name of the person who registered the websites
 - His/her address
 - Phone number
 - Email (The email below was obfuscated, but usually you can find clear email as username@domainname.com )
+
+There are many websites online who offers this service such as: https://who.is/ 
+most of the domain registration websites offers this service as well.
+
+Below are the results that you get by running whois on a website such as www.example.org  This information include:
 
 photo
 
