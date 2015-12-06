@@ -278,7 +278,8 @@ When you are registering your domain name with a domain provider they will usual
 There are many websites online who offers this service such as: https://who.is/ 
 most of the domain registration websites offers this service as well.
 
-Below are the results that you get by running whois on a website such as www.example.org  This information include:
+Below are the results that you get by running whois on a website such as www.example.org. 
+**Note:**: Some domain providers offer a service to hide this information, and sometimes people obscure it on purpose. 
 
 photo
 
