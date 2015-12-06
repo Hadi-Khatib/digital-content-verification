@@ -208,6 +208,20 @@ photo
 
 In this case, this video which has been uploaded by “Abu Shadi AlSafrany” who works in a local media center in a city called Al-Safira. They  haven't been shared online before which means that the videos haven't been used in different countries or contexts. Once you verify that a video is unique, it will be important then to verify the location and the date of the incident to make sure that the video is not fabricated. Specifically that sometimes reverse image searches do not always reveal any duplication of videos or photos so there's a need to carry on other forms of verification.
 
+## Confirming sources of information
+
+Identifying the original source is the goal that we want to reach when verifying digital content. As we mentioned above, one of the ways to do this is by using reverse image search as we saw above.
+
+You can also use the same technique in TinEye, or Google image reverse to check out if the source of information is fake or not.
+
+As an example: on Twitter there are many fake accounts, alled “bots”, that are created to spread information, or sometimes to spy on people through following them. Most bots, and other unreliable sources, will use stolen photographs of other people as their avatars. For example, the Twitter bot @LusDgrm166 seen highlighted in red in the image below: 
+
+photo
+
+A quick investigation of the account's avatar reveals that the Twitter account is not likely to be  operated by a human. All the accounts on the screenshot above are likely not operated by a human. They are tweeting about Syria with a hashtag #NaturalHealing and the content of their tweets is taken from Wikipedia, and other pages. 
+
+After copying the URL of the avatar of @LusDgrm166  or downloading the avatar, paste the link/photo into a reverse Google image search to find similar pictures elsewhere online. As you can see in the image of the search results below, the image has been used by many twitter users as their profile image. 
+
 
 
 
