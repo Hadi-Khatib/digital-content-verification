@@ -175,9 +175,7 @@ photo - last program opened - Maybe image was resized.
 
 There's a different technique to analyse an image which is called ELA (error-level analysis). It's a forensic method to identify portions of an image with a different level of compression. You can do this through fotoforensics.com as well.
 
-
-
-> Photo - from Gabi
+> Photoshoped photo - from Gabi 
 
 There are applications that can be useful to capture the date of the video or photo automatically as well as capturing other important pieces such as GPS data. One such application is CameraV which we introduced in the Metadata chapter of this guide. 
 Camera V: https://guardianproject.info/apps/camerav/ 
