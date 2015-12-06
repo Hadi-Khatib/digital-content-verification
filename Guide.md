@@ -148,6 +148,9 @@ This is an example of how TinEye works:
 
 Tools, and resources to look at:
 http://graph.tips/
+
 http://pleasedontstalkme.com/
+
 http://geosocialfootprint.com/
+
 http://skypegrab.net/resolver.php
