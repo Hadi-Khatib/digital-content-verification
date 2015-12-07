@@ -291,6 +291,13 @@ Verifying the date is one of the most important elements of verification, there 
 
 This is made easier when  people in the video mentioned the date of when the event happened, or show newspapers or write the date on a piece of paper to show it  to the camera such as the example below. 
 
+Open source tools:
+
+YouTube API
+OpenstreetMap
+WikiMapia
+Archive.is
+Archive.org
 
 
 ## Tools, and resources to look at
