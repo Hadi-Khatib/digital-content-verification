@@ -318,6 +318,20 @@ photo
 
 As you can see above, you can verify that the date posted on YouTube is likely to be correct based on the similar weather conditions. 
 
+## Confirming the location:
+
+The process of geolocating the visual evidence is essential to verifying whether the evidence you find is in the location it claims to be or not. Mapping platforms such as Open Street Map, Google Earth, Google Maps, Wikimapia and Paronamio will help you to locate those materials when possible. The key issue for geolocation is to collect as many images as possible to be able to use them all to verify as it will be harder to verify an incident from only one piece of footage.  
+
+Below are few details to consider for confirming the location:
+
+- License/number plates on vehicles
+- Landmarks such as schools, hospitals, religious places, towers, etc
+- Type of clothing
+- Is there an identifiable shop or a building?
+- What is the type of the terrain/environment in the shot?
+
+
+
 
 ## Open source tools:
 
