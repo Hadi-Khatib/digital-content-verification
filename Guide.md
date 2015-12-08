@@ -330,7 +330,36 @@ Below are few details to consider for confirming the location:
 - Is there an identifiable shop or a building?
 - What is the type of the terrain/environment in the shot?
 
+**License/number plates on vehicles**
 
+In this case, we wanted to identify the location of a suspected ISIS member. For many years she posted many pictures on social media account from Guyana, South America. To confirm that she is actually in Guyana, we looked at images where vehicle numbers are clearly visible. The white car in this picture holds the following number “BMM-5356”. 
+
+photo
+
+**Looking at Landmarks**
+
+Looking at landmarks such as schools, hospitals, towers, religious buildings is very helpful when you are trying to geolocate visual evidence.  Mapping platform such as Wikimapia, Google Earth, Panoramio, and Google Maps are tagged with thousands of photos which could be used to geolocate your evidence. 
+
+If you search for “schools” through Wikimapia, then all schools in the area would be shown to you as below.
+
+photo
+
+Panoramio works in a different way, where it will show you all photos in a specific area that are tagged to Google Maps. 
+
+photo
+
+Through both services you can find photos that will help you geolocate your evidence as the one below demonstrates. Below you can see a screenshot of Panoramio of a photoof a shop  found through the site. The photo includes the phone number of the shop, and a small board with full address on it. 
+
+
+
+
+
+
+
+
+
+
+When searching this number through wikipedia, we found this below page that confirmed to us that those particular car plate numbers  belong to vehicle registration plates of Guyana.
 
 
 ## Open source tools:
