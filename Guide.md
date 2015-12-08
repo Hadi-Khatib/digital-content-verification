@@ -374,7 +374,7 @@ Photo
 
 **Using google history satellite image**
 
-Below are images of Aleppo in 2010, and in 2013. You can clearly see the damaged areas
+Below are images of Aleppo in 2010, and in 2013. You can see clearly the damaged areas. This can help you geolocate streets in this area even after being attacked as you can see the images before the damage/attack
 
 photo
 
