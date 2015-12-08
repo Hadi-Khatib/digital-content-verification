@@ -9,6 +9,9 @@
 4. Confirming location.
 
 
+
+
+
 ##  Introduction
 
 **Why verification is important**
