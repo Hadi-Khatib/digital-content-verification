@@ -291,6 +291,19 @@ Verifying the date is one of the most important elements of verification, there 
 
 This is made easier when  people in the video mentioned the date of when the event happened, or show newspapers or write the date on a piece of paper to show it  to the camera such as the example below. 
 
+photo
+
+In the Syrian context most of the time, the original uploaders of the videos on YouTube will write the exact date of the incident with the video Title. In most cases this would be the correct date, specially if you are looking to a video from a vetted, verified source. 
+
+This does not often happen in other contexts, and even in some events in Syria it was a challenge to verify the date easily without adding other ways to confirm it such as looking at the weather during the event, or connecting with the person who took the original footage so they can provide raw photo/video with metadata attached to it to ensure the date of the event.
+
+**Example**:
+
+Hundreds of videos were uploaded on YouTube by media activists in Syria during the Chemical attack which happened in Damascus on 21 August 21 2013. The uploaded videos were claimed to fabricated because the YouTube videos uploaded by activists were dated as 20/08/2013, while activists were saying that the attack happened in 21/08/2013. This happened because YouTube will date videos according to time-stamped in Pacific Standard Time (PST) rather than Eastern European Time (EET), as in this case, which  is why it's important to be aware of this. 
+
+
+
+
 ## Open source tools:
 
 YouTube API
