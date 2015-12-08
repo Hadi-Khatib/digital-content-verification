@@ -350,7 +350,13 @@ photo
 
 Through both services you can find photos that will help you geolocate your evidence as the one below demonstrates. Below you can see a screenshot of Panoramio of a photoof a shop  found through the site. The photo includes the phone number of the shop, and a small board with full address on it. 
 
+photo
 
+Once you find the suspected location of your evidence, Google Earth can be very helpful to confirm if this is the actual location or not. Different techniques can be used for this which includes:
+
+- Looking at structures
+- Looking at terrain
+- Using Google satellite image history
 
 
 
