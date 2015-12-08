@@ -399,6 +399,10 @@ As you can see from the above examples, technology has changed how we find and d
 -------------------------------------------------------------------------------------
 ## How to carry out an online investigation as securely as possible
 
+[1] accessing internet securely
+[2] encrypting data related to he investigation
+[3] using non-proprietary and non-cloud based solution
+[4] backing up data related to the investigation
 
 
 
