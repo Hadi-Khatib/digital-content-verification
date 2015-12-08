@@ -275,11 +275,12 @@ When you are registering your domain name with a domain provider they will usual
 - Phone number
 - Email (The email below was obfuscated, but usually you can find clear email as username@domainname.com )
 
-There are many websites online who offers this service such as: https://who.is/ 
+There are many websites online who offers a service to see all this registered data such as: https://who.is/ 
 most of the domain registration websites offers this service as well.
 
 Below are the results that you get by running whois on a website such as www.example.org. 
-**Note:**: Some domain providers offer a service to hide this information, and sometimes people obscure it on purpose. 
+
+**Note:**: Some domain providers offer a service to hide this information from being public, and sometimes people obscure it on purpose. 
 
 photo
 
