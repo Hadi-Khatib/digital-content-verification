@@ -362,6 +362,18 @@ Once you find the suspected location of your evidence, Google Earth can be very 
 
 You can see below an image of a mousque which has been captured by an activist who claims that this moqsue located in Jirs Al-shugur - Idlib. We located the mousque through google earth, and compared the structure between the sattelite image, and the image provided by the activist to make sure that it is actualy located in the claimed location. In this case we looked at the buildings' black windows, and how it's structured. 
 
+photo
+
+**Look at terrain**
+
+Checking out the terrain of the claimed location through satellite imagery.
+
+Below is one of thousands of photos leaked depicting violations of human rights in Syrian prisons. The leaked photo was geolocated through looking at the satellite image below, then the terrain which shows the hill that has the communication towers.  
+
+Photo
+
+
+
 
 
 
