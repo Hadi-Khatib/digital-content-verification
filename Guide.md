@@ -72,7 +72,7 @@ Some of these services don't implement secure connection to the internet which m
 You need to use different techniques and tools to be able to verify visual evidence you get online. It's very important to collect as many photos and videos about the incidents as possible. Also it's very helpful to connect with sources from the ground to confirm if an incident has happened, but making sure that you are communnicating with them securely so you don't put them or yourself under a risk specially if you are investigating any sensitive issues. 
 
 
-
+We will go through the key elements of digital content verification below with examples that will include techniques, and tools for each one:
 
 
 
