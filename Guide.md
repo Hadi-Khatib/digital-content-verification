@@ -382,6 +382,13 @@ Below are images of Aleppo in 2010, and in 2013. You can see clearly the damaged
 
 photo
 
+**Using google satellite image**
+
+Geolocating the filming location with Google earth. The below is an image from Jisr al-Shughur in Syria. In red the mosque minaret needed to be located. 
+
+photo
+
+
 
 
 
