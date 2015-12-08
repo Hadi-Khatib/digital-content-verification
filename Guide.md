@@ -396,6 +396,12 @@ photo
 
 As you can see from the above examples, technology has changed how we find and deal with sources and information. As witnesses, and activists share events in text, photos and videos on social media and blogs in real time. This can help human rights investogators verify events that are happening through visual evidence by using different technieques, and tools. Remember to read our chapter on how to use the verification tools as securely as possible before using it. 
 
+-------------------------------------------------------------------------------------
+## How to carry out an online investigation as securely as possible
+
+
+
+
 
 ## Open source tools:
 
