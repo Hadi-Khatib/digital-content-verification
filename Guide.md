@@ -302,7 +302,7 @@ Archive.org
 
 ## Tools, and resources to look at
 
-at:http://graph.tips/
+http://graph.tips/
 
 http://pleasedontstalkme.com/
 
