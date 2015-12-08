@@ -306,7 +306,17 @@ photo
 
 Checking the weather (if possible) from a photo/video would be helpful to confirm the date of the event.
 
+**Example:**
 
+Below is a video which has been posted on “Al-Aan” TV channel claiming that clashes has been stopped in few areas in Syria because of the snow. 
+
+photo
+
+To verify this, enter the same date posted on YouTube to the website WolfaramAlpha, as shown below, to see if the weather was indeed snowy or not. 
+
+photo
+
+As you can see above, you can verify that the date posted on YouTube is likely to be correct based on the similar weather conditions. 
 
 
 ## Open source tools:
