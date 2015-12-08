@@ -388,7 +388,7 @@ Geolocating the filming location with Google earth. The below is an image from J
 
 photo
 
-As you saw in all examples above technology has changed how we find and deal with sources and information. As witnesses, and activists share events in words, photos and videos on social media and blogs in real time. This can help human rights investogators in finding information and connect with people who saw news unfold both by using digital search tools and other technologies, and by crowdsourcing.
+As you can see from the above examples, technology has changed how we find and deal with sources and information. As witnesses, and activists share events in words, photos and videos on social media and blogs in real time. This can help human rights investogators verify events.
 
 
 
