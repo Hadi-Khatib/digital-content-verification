@@ -14,7 +14,7 @@
 
 ##  Introduction
 
-**Why verification is important**
+**Why verification is important?**
 
 Abdulaziz Aletibi (@abdulaziz_Photo) posted a picture on Instagram of a child sleeping between his parent's grave as a depiction of a Syrian child who just lost his family. It went viral on social media with people discussing it, along with politicians, and even some news agencies used it to write breaking news stories.
 
