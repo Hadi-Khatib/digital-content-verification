@@ -67,7 +67,9 @@ Journalists from Syria, and other countries have been puting lots of efforts to 
 As you will while going through the chapter, we will be featuring tools and services that can help you out to verify digital content generated online. Most of these tools belong to private companies, and they are closed source. This means that when uploading content to these services, you won't be able to control how these companies use this contect, and to whome they share it with. 
 Some of these services don't implement secure connection to the internet which might put you at risk. Also your location will be exposed on these sites if you don't hide it. We will go into details of how you can protect yourself while carrying out an online investigation. 
 
-**Is it possible to verify digital content generated online just by using a tool?**
+**Is it possible to verify digital content generated online just by using one tool?**
+
+You need to use different techniques and tools to be able to verify visual evidence you get online. It's very important to collect as many photos and videos about the incidents as possible. Also it's very helpful to connect with sources from the ground to confirm if an incident has happened, but making sure that you are communnicating with them securely so you don't put them or yourself under a risk specially if you are investigating any sensitive issues. 
 
 
 
