@@ -188,7 +188,8 @@ There's a different technique to analyse an image which is called ELA (error-lev
 > Photoshoped photo - from Gabi 
 
 There are applications that can be useful to capture the date of the video or photo automatically as well as capturing other important pieces such as GPS data. One such application is CameraV which we introduced in the Metadata chapter of this guide. 
-Camera V: https://guardianproject.info/apps/camerav/ 
+
+**Camera V:** https://guardianproject.info/apps/camerav/ 
 
 ## Videos
 
