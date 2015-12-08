@@ -336,6 +336,10 @@ In this case, we wanted to identify the location of a suspected ISIS member. For
 
 photo
 
+When searching this number through wikipedia, we found this below page that confirmed to us that those particular car plate numbers  belong to vehicle registration plates of Guyana.
+
+photo
+
 **Looking at Landmarks**
 
 Looking at landmarks such as schools, hospitals, towers, religious buildings is very helpful when you are trying to geolocate visual evidence.  Mapping platform such as Wikimapia, Google Earth, Panoramio, and Google Maps are tagged with thousands of photos which could be used to geolocate your evidence. 
@@ -382,7 +386,7 @@ photo
 
 
 
-When searching this number through wikipedia, we found this below page that confirmed to us that those particular car plate numbers  belong to vehicle registration plates of Guyana.
+
 
 
 ## Open source tools:
