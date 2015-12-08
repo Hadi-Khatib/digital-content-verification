@@ -301,6 +301,10 @@ This does not often happen in other contexts, and even in some events in Syria i
 
 Hundreds of videos were uploaded on YouTube by media activists in Syria during the Chemical attack which happened in Damascus on 21 August 21 2013. The uploaded videos were claimed to fabricated because the YouTube videos uploaded by activists were dated as 20/08/2013, while activists were saying that the attack happened in 21/08/2013. This happened because YouTube will date videos according to time-stamped in Pacific Standard Time (PST) rather than Eastern European Time (EET), as in this case, which  is why it's important to be aware of this. 
 
+photo
+
+Checking the weather (if possible) from a photo/video would be helpful to confirm the date of the event.
+
 
 
 
