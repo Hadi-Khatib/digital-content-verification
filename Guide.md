@@ -409,7 +409,7 @@ Using online serach tools, and investigation techniques can be very helpful to v
 
 These are some of the questions that you really need to think about, We will go through basic steps on how you carry on an online investigation as securely as possible. We will also go through the open source tools that you could use for investigation instead of the commercial software. By open source we mean tools that would let you review how it's built so you, or a technical expert that you know can understand if it's violating your security and privacy at any point. Commercial software won't let you do that so you won't be able to understand if it's respecting your privacy, or if it's allowing you to use it securely. 
 
-**Basic steps for invetigating online securely:**
+**Basic steps for investigating online securely:**
 
 **STEP 1:** 
 
