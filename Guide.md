@@ -434,7 +434,7 @@ _**Note: Some sites don't support secure communication, so people can see the we
 **Confirming sources of information**
 - https://www.paterva.com/web6/products/maltego.php
 - whois?? command
-- 
+- metadata http://www.sno.phy.queensu.ca/~phil/exiftool/
 
 **Confirming location**
 - YouTube API
