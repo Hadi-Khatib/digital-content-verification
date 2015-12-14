@@ -422,7 +422,7 @@ _**Note: Some sites don't support secure communication, so people can see the we
 
 **STEP 3:** Use safer tools for verification, and investigation when possible:
 
-**Provenance**
+**Confirming Provenance**
 - https://en.wikipedia.org/wiki/List_of_CBIR_engines
 - https://en.wikipedia.org/wiki/Reverse_image_search
 - http://orpheus.ee.duth.gr/anaktisi/
@@ -436,7 +436,7 @@ _**Note: Some sites don't support secure communication, so people can see the we
 - whois?? command
 - 
 
-**Geolocation**
+**Confirming location**
 - YouTube API
 - OpenstreetMap
 - WikiMapia
