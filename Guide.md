@@ -411,7 +411,19 @@ These are some of the questions that you really need to think about, We will go 
 
 **Basic steps for investigating online securely:**
 
-**STEP 1:** 
+**STEP 1:** Connecting securely to the internet:
+
+
+**STEP 2:** Hiding your identity with Tor:
+
+
+**STEP 3:** Use safer tools for verification, and investigation when possible:
+
+
+**STEP 4:** Make sure to back up relevant content you find, sites you visit, and conversations you have with sources of information:
+
+
+
 
 1. accessing internet securely
 2. encrypting data related to he investigation
