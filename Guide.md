@@ -405,6 +405,7 @@ Using online serach tools, and investigation techniques can be very helpful to v
 2. How sensitive are the videos and photos you are dealing with and verifying? Would it put you at risk if someone saw it? 
 3. Do you know the security situation, and the privacy policy of the online services that you are using to upload your content for verification?
 4. Do you connect securely to the internet while carrying on an online investigation so people connected to the same WiFi network don't see what you are looking at?
+5. Do you hide your location while carrying out an online investigation so the sites you are visiting collect information that could identify you personaly later on?
 
 As you will see through the chapter, we will be featuring tools and services that can help you out to verify digital content generated online. Most of these tools belong to private companies, and they are closed source. This means that when uploading content to these services, you won't be able to control how these companies will use this it, and to whome they share it with. 
 Some of these services don't implement secure connection to the internet which might put you at risk if you are on a public WiFi network. Also your location will be exposed to these sites if you don't hide it. At the end of this chapter we will go into details of how you can protect yourself while carrying out an online investigation. 
