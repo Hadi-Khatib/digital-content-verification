@@ -399,6 +399,9 @@ As you can see from the above examples, technology has changed how we find and d
 -------------------------------------------------------------------------------------
 ## How to carry out an online investigation as securely as possible
 
+Using online investigation tools can be very helpful to verify digital content such as photos, and videos as we saw earlier in this chapter. 
+
+
 1. accessing internet securely
 2. encrypting data related to he investigation
 3. using non-proprietary and non-cloud based solution
