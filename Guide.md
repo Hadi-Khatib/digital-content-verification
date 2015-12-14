@@ -420,7 +420,7 @@ These are some of the questions that you really need to think about, We will go 
 **STEP 3:** Use safer tools for verification, and investigation when possible:
 
 
-**STEP 4:** Communicate securely with your sources of information so you don't put then at risk:
+**STEP 4:** Communicate securely with your sources of information so you don't put them or yourself at risk:
 
 
 **STEP 5:** Make sure to back up relevant content you find, sites you visit, and conversations you have with sources of information:
