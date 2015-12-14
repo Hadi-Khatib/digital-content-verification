@@ -401,9 +401,12 @@ As you can see from the above examples, technology has changed how we find and d
 
 Using online serach tools, and investigation techniques can be very helpful to verify user generated digital content such as photos, and videos as we saw earlier in this chapter, but there are security issues related to this that you need to think about and consider before carrying on your online investigation. Some of these questions are:
 
-1. item
+1. How sensitive is the investigation you are carrying out? Are you going to be at risk if anyone knows that you are working on this investigation? Will other people involved in this investigation be at risk too?
 2. item
 3. item
+
+As you will see through the chapter, we will be featuring tools and services that can help you out to verify digital content generated online. Most of these tools belong to private companies, and they are closed source. This means that when uploading content to these services, you won't be able to control how these companies will use this it, and to whome they share it with. 
+Some of these services don't implement secure connection to the internet which might put you at risk if you are on a public WiFi network. Also your location will be exposed to these sites if you don't hide it. At the end of this chapter we will go into details of how you can protect yourself while carrying out an online investigation. 
 
 
 
