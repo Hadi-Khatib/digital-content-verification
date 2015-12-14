@@ -426,16 +426,6 @@ These are some of the questions that you really need to think about, We will go 
 **STEP 5:** Make sure to back up relevant content you find, sites you visit, and conversations you have with sources of information:
 
 
-
-
-1. accessing internet securely
-2. encrypting data related to he investigation
-3. using non-proprietary and non-cloud based solution
-4. backing up data related to the investigation
-
-
-
-
 ## Open source tools:
 
 YouTube API
