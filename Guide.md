@@ -422,11 +422,6 @@ _**Note: Some sites don't support secure communication, so people can see the we
 
 **STEP 3:** Use safer tools for verification, and investigation when possible:
 
-**Geolocation**
-- YouTube API
-- OpenstreetMap
-- WikiMapia
-
 **Provenance**
 - https://en.wikipedia.org/wiki/List_of_CBIR_engines
 - https://en.wikipedia.org/wiki/Reverse_image_search
@@ -441,6 +436,10 @@ _**Note: Some sites don't support secure communication, so people can see the we
 - whois?? command
 - 
 
+**Geolocation**
+- YouTube API
+- OpenstreetMap
+- WikiMapia
 
 **STEP 4:** Communicate securely with your sources of information so you don't put them or yourself at risk:
 
