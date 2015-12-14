@@ -415,7 +415,7 @@ These are some of the questions that you really need to think about, We will go 
 
 Make sure that you are browsing sites securely, the ones you are investigating, or just revweing. You can do this by encrypting your communication with these sites when possible through SSL (Secure Socket Layer). 
 
-Note: Some sites don't support secure communication, so people can see the websites you are visitng, and the information you are sending (log-in info, text, photo, video etc). This can be very risky if you are working in a public space using WiFi network.
+_**Note: Some sites don't support secure communication, so people can see the websites you are visitng, and the information you are sending (log-in info, text, photo, video etc). This can be very risky if you are working in a public space using WiFi network.**_
 
 **STEP 2:** Hiding your identity with Tor:
 
