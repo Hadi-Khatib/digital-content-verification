@@ -399,7 +399,9 @@ As you can see from the above examples, technology has changed how we find and d
 -------------------------------------------------------------------------------------
 ## How to carry out an online investigation as securely as possible
 
-Using online investigation tools can be very helpful to verify digital content such as photos, and videos as we saw earlier in this chapter. 
+Using online serach tools, and investigation techniques can be very helpful to verify user generated digital content such as photos, and videos as we saw earlier in this chapter, but there are security issues related to this that you need to think about and consider before carrying on your online investigation. Some of these questions are:
+
+
 
 
 1. accessing internet securely
