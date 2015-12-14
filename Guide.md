@@ -424,7 +424,9 @@ _**Note: Some sites don't support secure communication, so people can see the we
 - YouTube API
 - OpenstreetMap
 - WikiMapia
-
+- http://orpheus.ee.duth.gr/anaktisi/
+- https://www.digikam.org/about?q=about/features
+- 
 
 
 **STEP 4:** Communicate securely with your sources of information so you don't put them or yourself at risk:
