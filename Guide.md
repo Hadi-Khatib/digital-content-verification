@@ -418,21 +418,23 @@ These are some of the questions that you really need to think about, We will go 
 
 
 **STEP 3:** Use safer tools for verification, and investigation when possible:
+- YouTube API
+- OpenstreetMap
+- WikiMapia
+
 
 
 **STEP 4:** Communicate securely with your sources of information so you don't put them or yourself at risk:
 
 
 **STEP 5:** Make sure to back up relevant content you find, sites you visit, and conversations you have with sources of information:
+- Archive.is
+- Archive.org
 
 
 ## Open source tools:
 
-YouTube API
-OpenstreetMap
-WikiMapia
-Archive.is
-Archive.org
+
 
 
 ## Tools, and resources to look at
