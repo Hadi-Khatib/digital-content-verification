@@ -460,8 +460,8 @@ There are easy to use tools that you can install for safer communication such as
 https://whispersystems.org/
 Also there are tools to ensure secure file sharing such as minilock
 https://minilock.io/
-
-
+Read more about secure communicatrion here: 
+https://securityinabox.org/en/guide/secure-communication
 
 **STEP 5:** Make sure to back up relevant content you find, sites you visit, and conversations you have with sources of information:
 - Archive.is
