@@ -458,11 +458,6 @@ There are down sides into using exiftool as well. First it doesn't support ELA a
 - Archive.org
 
 
-## Open source tools:
-
-
-
-
 ## Tools, and resources to look at
 
 http://graph.tips/
