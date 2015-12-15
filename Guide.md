@@ -456,6 +456,10 @@ You can use OpenstreetMap https://www.openstreetmap.org/#map=11/34.7337/36.7170 
 **STEP 4:** Communicate securely with your sources of information so you don't put them or yourself at risk:
 It's very easy to put yourself and your sources of information at risk while communicating with them about your online investigation specially if it's a sensitive issue you are looking at. 
 Make sure that you communicate with them securely, and make sure that you share data with each securelt too.
+There are easy to use tools that you can install for safer communication such as: Signal
+https://whispersystems.org/
+Also there are tools to ensure secure file sharing such as minilock
+https://minilock.io/
 
 
 
