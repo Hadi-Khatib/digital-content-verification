@@ -403,7 +403,7 @@ Using online serach tools, and investigation techniques can be very helpful to v
 
 1. How sensitive is the investigation you are carrying out? Are you going to be at risk if anyone knows that you are working on this investigation? Will other people involved in this investigation be at risk too?
 2. How sensitive are the videos and photos you are dealing with and verifying? Would it put you at risk if someone saw that you have it? Would it be safe to carry out these materials while you are traveling, moving around?
-3. Do you know the security situation, and the Terms of Service of the online tools that you are using to upload your content for verification?
+3. Do you know the security situation, and the Terms of Service of the online tools that you are using to upload your content for verification? Do you know if they would share the uploaded content with other parties?
 4. Do you connect securely to the internet while carrying on an online investigation so people connected to the same WiFi network won't be able to see what you are looking at?
 5. Do you hide your location while carrying out an online investigation so the sites you are visiting won't be able to collect information that could identify you personaly later on?
 
