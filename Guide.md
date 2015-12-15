@@ -420,6 +420,8 @@ _**Note: Some sites don't support secure communication, so people can see the we
 **STEP 2:** Hiding your identity with Tor:
 
 
+
+
 **STEP 3:** Use safer tools for verification, and investigation when possible:
 
 **Confirming Provenance**
@@ -433,6 +435,7 @@ _**Note: Some sites don't support secure communication, so people can see the we
 
 **Confirming sources of information**
 - https://www.paterva.com/web6/products/maltego.php
+You can use Maltego instead of cloud based sevices such as pipl, and webmii to get more information about a specific source to verify who she/he is.  
 - whois?? command
 - metadata http://www.sno.phy.queensu.ca/~phil/exiftool/
 You can use exiftool  http://www.sno.phy.queensu.ca/~phil/exiftool/ as an alternative to http://fotoforensics.com/ which has been featured earlier to review the exif data on a photo. This will give information such as the device used to take the photo, date, location, last programme used to edit the photo (if it has been edited). By using exiftool you won't need to upload your photo online on a cloud based service that you don't know how the deal with your data. Everything is done on your computer with exiftool, no 3rd party is involved. 
