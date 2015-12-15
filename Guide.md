@@ -450,9 +450,8 @@ You can use exiftool  http://www.sno.phy.queensu.ca/~phil/exiftool/ as an altern
 There are down sides into using exiftool as well. First it doesn't support ELA analysis, and second exiftool is a command-line application so it doesn't have graphical interface. The command0line is easy to use and install. 
 
 **Confirming location**
-- YouTube API
-- OpenstreetMap
-- WikiMapia
+
+You can use OpenstreetMap and wikimapia to verify a location instead of google maps which stores and analyse everything you do search on.
 
 **STEP 4:** Communicate securely with your sources of information so you don't put them or yourself at risk:
 
