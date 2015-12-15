@@ -451,7 +451,7 @@ There are down sides into using exiftool as well. First it doesn't support ELA a
 
 **Confirming location**
 
-You can use OpenstreetMap and wikimapia to verify a location instead of google maps which stores and analyse everything you do search on.
+You can use OpenstreetMap https://www.openstreetmap.org/#map=11/34.7337/36.7170 and wikimapia http://wikimapia.org/#lang=de&lat=52.516700&lon=13.400000&z=12&m=b to verify a location instead of google maps which stores and analyse everything you do search on.
 
 **STEP 4:** Communicate securely with your sources of information so you don't put them or yourself at risk:
 
