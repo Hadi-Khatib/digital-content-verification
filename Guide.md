@@ -454,6 +454,9 @@ There are down sides into using exiftool as well. First it doesn't support ELA a
 You can use OpenstreetMap https://www.openstreetmap.org/#map=11/34.7337/36.7170 and wikimapia http://wikimapia.org/#lang=de&lat=52.516700&lon=13.400000&z=12&m=b to verify a location instead of google maps which stores and analyse everything you do search on.
 
 **STEP 4:** Communicate securely with your sources of information so you don't put them or yourself at risk:
+It's very easy to put yourself and your sources of information at risk while communicating with them about your online investigation specially if it's a sensitive issue you are looking at. 
+Make sure that you communicate with them securely, and make sure that you share data with each securelt too.
+
 
 
 **STEP 5:** Make sure to back up relevant content you find, sites you visit, and conversations you have with sources of information:
