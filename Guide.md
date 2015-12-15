@@ -404,8 +404,8 @@ Using online serach tools, and investigation techniques can be very helpful to v
 1. How sensitive is the investigation you are carrying out? Are you going to be at risk if anyone knows that you are working on this investigation? Will other people involved in this investigation be at risk too?
 2. How sensitive are the videos and photos you are dealing with and verifying? Would it put you at risk if someone saw that you have it? Would it be safe to carry out these materials while you are traveling, moving around?
 3. Do you know the security situation, and the Terms of Service of the online tools that you are using to upload your content for verification?
-4. Do you connect securely to the internet while carrying on an online investigation so people connected to the same WiFi network don't see what you are looking at?
-5. Do you hide your location while carrying out an online investigation so the sites you are visiting collect information that could identify you personaly later on?
+4. Do you connect securely to the internet while carrying on an online investigation so people connected to the same WiFi network won't be able to see what you are looking at?
+5. Do you hide your location while carrying out an online investigation so the sites you are visiting won't be able to collect information that could identify you personaly later on?
 
 These are some of the questions that you really need to think about, We will go through basic steps on how you carry on an online investigation as securely as possible. We will also go through the open source tools that you could use for investigation instead of the commercial software. By open source we mean tools that would let you review how it's built so you, or a technical expert that you know can understand if it's violating your security and privacy at any point. Commercial software won't let you do that so you won't be able to understand if it's respecting your privacy, or if it's allowing you to use it securely. 
 
