@@ -434,10 +434,11 @@ _**Note: Some sites don't support secure communication, so people can see the we
 - http://www.lire-project.net/index.html
 
 **Confirming sources of information**
-- https://www.paterva.com/web6/products/maltego.php
-You can use Maltego instead of cloud based sevices such as **pipl**, and **webmii** to get more information _such as accounts on social media, related websites, phone numbers, Emails_ about a specific source so you can verify who she/he really is. Maltego is a program that you can install on your computer Windows, Mac, Linux that can be used to collect, and visually aggregate information posted on the internet which can be helpful for an online investigation. 
+ 
+You can use Maltego https://www.paterva.com/web6/products/maltego.php instead of cloud based sevices such as **pipl**, and **webmii** to get more information _such as accounts on social media, related websites, phone numbers, Emails_ about a specific source so you can verify who she/he really is. Maltego is a program that you can install on your computer Windows, Mac, Linux that can be used to collect, and visually aggregate information posted on the internet which can be helpful for an online investigation. 
+
 - whois?? command
-- metadata http://www.sno.phy.queensu.ca/~phil/exiftool/
+
 You can use exiftool  http://www.sno.phy.queensu.ca/~phil/exiftool/ as an alternative to http://fotoforensics.com/ which has been featured earlier to review the exif data on a photo. This will give information such as the device used to take the photo, date, location, last programme used to edit the photo (if it has been edited). By using exiftool you won't need to upload your photo online on a cloud based service that you don't know how the deal with your data. Everything is done on your computer with exiftool, no 3rd party is involved. 
 There are down sides into using exiftool as well. First it doesn't support ELA analysis, and second exiftool is a command-line application so it doesn't have graphical interface. The command0line is easy to use and install. 
 
