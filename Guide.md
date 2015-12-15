@@ -424,6 +424,8 @@ _**Note: Some sites don't support secure communication, so people can see the we
 
 **STEP 3:** Use safer tools for verification, and investigation when possible:
 
+Below is a list of open source tools that can be used for safer online investigation:
+
 **Confirming Provenance**
 - https://en.wikipedia.org/wiki/List_of_CBIR_engines
 - https://en.wikipedia.org/wiki/Reverse_image_search
