@@ -435,7 +435,8 @@ _**Note: Some sites don't support secure communication, so people can see the we
 - https://www.paterva.com/web6/products/maltego.php
 - whois?? command
 - metadata http://www.sno.phy.queensu.ca/~phil/exiftool/
-You can use exiftool  http://www.sno.phy.queensu.ca/~phil/exiftool/ as an alternative to http://fotoforensics.com/ which has been featured earlier to review the exif data on a photo. This will give information such as the device used to take the photo, date, location, last programme used to edit the photo (if it has been edited). 
+You can use exiftool  http://www.sno.phy.queensu.ca/~phil/exiftool/ as an alternative to http://fotoforensics.com/ which has been featured earlier to review the exif data on a photo. This will give information such as the device used to take the photo, date, location, last programme used to edit the photo (if it has been edited). By using exiftool you won't need to upload your photo online on a cloud based service that you don't know how the deal with your data. Everything is done on your computer with exiftool, no 3rd party is involved. 
+
 
 **Confirming location**
 - YouTube API
