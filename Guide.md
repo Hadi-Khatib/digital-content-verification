@@ -476,7 +476,6 @@ You can use cloud based services such as:
 Verification handbook
 http://verificationhandbook.com/
 
-
 FB graph search tool, especially to dig up photos that
 you cannot find on their timeline:
 http://graph.tips/
