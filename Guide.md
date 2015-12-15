@@ -467,6 +467,7 @@ FB graph search tool, especially to dig up photos that
 you cannot find on their timeline:
 http://graph.tips/
 
+Extracting images from a webpage
 https://chrome.google.com/webstore/detail/fuskr/glieaboaghdnlglpkekghloldikefofo?hl=en-US
 
 This tool allows you to tweet from "anywhere"
@@ -480,3 +481,6 @@ http://skypegrab.net/resolver.php
 
 A google group where Google posts sat images for the media 
 https://groups.google.com/forum/m/#!forum/google-newslab-updates
+
+Find out when new sattelite imagery is available
+https://followyourworld.appspot.com/
