@@ -467,7 +467,7 @@ Use a seperate Gmail account than your personal one if you want to use google ea
 You can also use OpenstreetMap https://www.openstreetmap.org/#map=11/34.7337/36.7170 and wikimapia http://wikimapia.org/#lang=de&lat=52.516700&lon=13.400000&z=12&m=b to verify a location instead of google maps, and make sure that you don't sign in with your personal email.
 
 **STEP 4:** Communicate securely with your sources of information so you don't put them or yourself at risk:
-It's very easy to put yourself and your sources of information at risk while communicating with them about your online investigation specially if it's a sensitive you are investigating a sensitive case. 
+It's very easy to put yourself and your sources of information at risk while communicating with them about your online investigation specially if it's a sensitive you are investigating a sensitive event. 
 Make sure that you communicate with them securely, and make sure that you share data with each securelt too.
 There are easy to use tools that you can install for safer communication such as: Signal
 https://whispersystems.org/
