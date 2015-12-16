@@ -493,6 +493,10 @@ http://arabcitizenmedia.org/topic/introduction-to-fact-checking/
 
 http://arabcitizenmedia.org/topic/introducing-online-verification-tools/
 
+**GlobalVoices - Verifying social media content guide**
+
+https://community.globalvoices.org/guide/editorial-guides/toolbox-for-authors/verifying-social-media-content/
+
 ## Tools
 
 **FB graph search tool, especially to dig up photos that
