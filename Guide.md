@@ -479,6 +479,10 @@ You can use cloud based services such as:
 
 http://verificationhandbook.com/
 
+**Witness Media Lab - Verification section that include verification tools**
+
+https://lab.witness.org/portfolio_page/verification/
+
 **The observers verification guide of France24**
 
 http://observers.france24.com/en/20151110-observers-guide-verifying-photos-videos-social-media-networks
