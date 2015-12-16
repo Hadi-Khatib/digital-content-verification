@@ -461,10 +461,10 @@ photo
 
 **Confirming location**
 
-Google maps, and google earth are one of the most used tools to verify locations, and geolocate incidents. Everything you do on google earth, and google maps is traced back to your Gmail which means that it would be possible to know that you are looking at specific locations to verify. 
-Use a seperate Gmail account than your persoanl Gmail if you want to use google earth and google maps for your investigation without exposing your real email so it becomes harder to identify you as a person working on a specific investigation.
+Google maps, and google earth are one of the most used tools to verify locations, and geolocate incidents. Everything you do on google earth, and google maps is traced back to your Gmail once you sign-in which means that it would be possible to know that you are looking at specific locations to verify. 
+Use a seperate Gmail account than your personal one if you want to use google earth and google maps for your investigation without exposing your real email. This will make it harder to identify you as a person working on a specific investigation.
 
-You can use OpenstreetMap https://www.openstreetmap.org/#map=11/34.7337/36.7170 and wikimapia http://wikimapia.org/#lang=de&lat=52.516700&lon=13.400000&z=12&m=b to verify a location instead of google maps which stores and analyse everything you do search on.
+You can use OpenstreetMap https://www.openstreetmap.org/#map=11/34.7337/36.7170 and wikimapia http://wikimapia.org/#lang=de&lat=52.516700&lon=13.400000&z=12&m=b to verify a location instead of google maps as it doesn't track your activities
 
 **STEP 4:** Communicate securely with your sources of information so you don't put them or yourself at risk:
 It's very easy to put yourself and your sources of information at risk while communicating with them about your online investigation specially if it's a sensitive issue you are looking at. 
