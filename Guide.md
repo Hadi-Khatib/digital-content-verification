@@ -505,6 +505,8 @@ https://community.globalvoices.org/guide/editorial-guides/toolbox-for-authors/ve
 
 https://storyful.com/case-study/forensic-verification-of-social-content/
 
+http://blog.storyful.com/2012/04/24/inside-storyful-storyfuls-verification-process/#.VnFQ5q8rK00
+
 ## Tools
 
 **Checkdesk for collaborative verification**
