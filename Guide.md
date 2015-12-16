@@ -503,6 +503,10 @@ https://community.globalvoices.org/guide/editorial-guides/toolbox-for-authors/ve
 
 ## Tools
 
+**Checkdesk for collaborative verification**
+
+https://meedan.com/en/checkdesk/
+
 **FB graph search tool, especially to dig up photos that
 you cannot find on their timeline:**
 
