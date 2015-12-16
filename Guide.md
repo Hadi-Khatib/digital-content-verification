@@ -484,6 +484,7 @@ You can use cloud based services to back-up websites, and social media accounts 
 - Archive.org
 The archives will provide you with an ID for every page you submit. Copy the codes to a file on your local computer so you can get back to pages you want to analyse later on. You can encrypt this file on your computer with a tool called Veracrypt so no one other than you will be able to open it.
 You can find more info about how to install and use Veracrypt here:
+https://veracrypt.codeplex.com/
 
 
 Note: Make sure that you use the above online archives over Tor browser to hide your location.
