@@ -481,13 +481,13 @@ http://verificationhandbook.com/
 
 http://observers.france24.com/en/20151110-observers-guide-verifying-photos-videos-social-media-networks
 
-**Arab Citizen media guides on**
+**Arab Citizen media**
 
-**fact checking**
+**guide on fact checking**
 
 http://arabcitizenmedia.org/topic/introduction-to-fact-checking/
 
-**and verification tools**
+**guide on verification tools**
 
 http://arabcitizenmedia.org/topic/introducing-online-verification-tools/
 
