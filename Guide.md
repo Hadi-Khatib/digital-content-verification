@@ -421,7 +421,13 @@ _**Note: Some sites don't support secure communication, so people can see the we
 
 You inherently leave many traces while you are browsing the internet to carry on your online investigation looking at websites, socialmedia sites and using online tools for verification. Most of the websites that you visit collect information about you such as your location thrugh your IP address, Your browser fingerprint, the device you are using to access the internet (Mobile, tablet, computer), sometimes the unique number for your device which is called the MAC address, the websites you visited online, how long you stayed one a specific page, and other things that you can have more details about on myshadow project https://myshadow.org/. 
 
-All this collected information can create a rofile about you which makes you identifiable. It's important to make sure that you are browsing the internet securely and anonymousley if you don't want the hackers who are connected to the same WiFi network to see what you are doing, as well as hiding your identitfu from websites you are visiting, or your internet service provider. You can do this by installing and using the Tor browser bundle when doing an online investigation.
+All this collected information can create a profile about you which makes you identifiable. It's important to make sure that you are browsing the internet securely and anonymousley if you don't want 
+
+- the hackers who are connected to the same WiFi network to see what you are doing, 
+- the websites you are visiting to collect information about you,
+- your internet service provider from seeing what you are doing onlline. 
+
+You can do this by installing and using the Tor browser bundle when doing an online investigation.
 Read more about this here to learn how to instal and use this tool:
 https://securityinabox.org/en/guide/torbrowser/windows
 You can also use Tails which is an operating system that allows you to remain anonymouse on the internet by default
