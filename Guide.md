@@ -473,6 +473,8 @@ You can use cloud based services such as:
 
 ## Tools, and resources to look at
 
+## Resources
+
 **Verification handbook**
 
 http://verificationhandbook.com/
@@ -490,6 +492,8 @@ http://arabcitizenmedia.org/topic/introduction-to-fact-checking/
 **guide on verification tools**
 
 http://arabcitizenmedia.org/topic/introducing-online-verification-tools/
+
+## Tools
 
 **FB graph search tool, especially to dig up photos that
 you cannot find on their timeline:**
