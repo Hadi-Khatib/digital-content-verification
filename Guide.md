@@ -481,9 +481,11 @@ http://observers.france24.com/en/20151110-observers-guide-verifying-photos-video
 
 **Arab Citizen media guides on**
 
-**fact checking**http://arabcitizenmedia.org/topic/introduction-to-fact-checking/
+**fact checking**
+http://arabcitizenmedia.org/topic/introduction-to-fact-checking/
 
-**and verification tools**http://arabcitizenmedia.org/topic/introducing-online-verification-tools/
+**and verification tools**
+http://arabcitizenmedia.org/topic/introducing-online-verification-tools/
 
 FB graph search tool, especially to dig up photos that
 you cannot find on their timeline:
