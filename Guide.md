@@ -474,37 +474,48 @@ You can use cloud based services such as:
 ## Tools, and resources to look at
 
 **Verification handbook**
+
 http://verificationhandbook.com/
 
 **The observers verification guide of France24**
+
 http://observers.france24.com/en/20151110-observers-guide-verifying-photos-videos-social-media-networks
 
 **Arab Citizen media guides on**
 
 **fact checking**
+
 http://arabcitizenmedia.org/topic/introduction-to-fact-checking/
 
 **and verification tools**
+
 http://arabcitizenmedia.org/topic/introducing-online-verification-tools/
 
-FB graph search tool, especially to dig up photos that
-you cannot find on their timeline:
+**FB graph search tool, especially to dig up photos that
+you cannot find on their timeline:**
+
 http://graph.tips/
 
-Extracting images from a webpage
-https://chrome.google.com/webstore/detail/fuskr/glieaboaghdnlglpkekghloldikefofo?hl=en-US
+**Extracting images from a webpage*
 
-This tool allows you to tweet from "anywhere"
+*https://chrome.google.com/webstore/detail/fuskr/glieaboaghdnlglpkekghloldikefofo?hl=en-US
+
+**This tool allows you to tweet from "anywhere"**
+
 http://pleasedontstalkme.com/
 
-Tracking geotagged tweets per account:
+**Find out when new sattelite imagery is available**
+
+https://followyourworld.appspot.com/
+
+**Tracking geotagged tweets per account:**
+
 http://geosocialfootprint.com/
 
-geolocation skype users using skype id
+**geolocation skype users using skype id**
+
 http://skypegrab.net/resolver.php
 
-A google group where Google posts sat images for the media 
-https://groups.google.com/forum/m/#!forum/google-newslab-updates
 
-Find out when new sattelite imagery is available
-https://followyourworld.appspot.com/
+
+
