@@ -433,7 +433,7 @@ https://securityinabox.org/en/guide/torbrowser/windows
 You can also use Tails which is an operating system that allows you to remain anonymouse on the internet by default
 https://tails.boum.org/
 
-Once you install this tool, then you can use services such as pipl or webmii to verify sources,  https://who.is/ to help you verify the source if it's mentioned on the website registration page, or fotoforensics so you can hide your identity from them, and they won't know that you are investigating about a specific issue.
+Once you install this tool, then you can use services such as pipl or webmii to verify sources,  https://who.is/ to help you verify the source if it's mentioned on the website registration page, or fotoforensics so you can hide your identity from them while uploading image there to verify. The purpose of this is to avoid them knowing what you are investigating about.
 
 **STEP 3:** Use safer tools for verification, and investigation when possible:
 
