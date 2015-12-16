@@ -496,7 +496,7 @@ you cannot find on their timeline:**
 
 http://graph.tips/
 
-**Extracting images from a webpage*
+**Extracting images from a webpage**
 
 *https://chrome.google.com/webstore/detail/fuskr/glieaboaghdnlglpkekghloldikefofo?hl=en-US
 
