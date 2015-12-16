@@ -548,6 +548,10 @@ http://geosocialfootprint.com/
 
 http://skypegrab.net/resolver.php
 
+**Collecting, sourcing and organising content on facebook and instagram**
+
+https://www.facebook.com/facebookmedia/get-started/signal
+
 
 
 
