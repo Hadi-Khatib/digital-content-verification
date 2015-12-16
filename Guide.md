@@ -501,6 +501,10 @@ http://arabcitizenmedia.org/topic/introducing-online-verification-tools/
 
 https://community.globalvoices.org/guide/editorial-guides/toolbox-for-authors/verifying-social-media-content/
 
+**Storyful verification process with case studies**
+
+https://storyful.com/case-study/forensic-verification-of-social-content/
+
 ## Tools
 
 **Checkdesk for collaborative verification**
