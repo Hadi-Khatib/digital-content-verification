@@ -452,7 +452,7 @@ Below is a list of open source tools that can be used for safer online investiga
  
 You can use Maltego https://www.paterva.com/web6/products/maltego.php instead of cloud based sevices such as **pipl**, and **webmii** to get more information _such as accounts on social media, related websites, phone numbers, Emails_ about a specific source so you can verify who she/he really is. Maltego is a program that you can install on your computer Windows, Mac, Linux that can be used to collect, and visually aggregate information posted on the internet which can be helpful for an online investigation. 
 
-photo
+photo 
 
 Consider exiftool  http://www.sno.phy.queensu.ca/~phil/exiftool/ as an alternative to fotoforensics http://fotoforensics.com/ which has been featured earlier to review the exif data on a photo. You will be able to extract metadata from ohotos which contain information such as the device used to take the photo, date, location, last programme used to edit the photo (if it has been edited). By using exiftool you won't need to upload your photo online on a cloud based service that you don't trust how they deal with your data. Everything is done locally on your computer with exiftool, no 3rd party is involved. 
 There are down sides into using exiftool as well. First it doesn't support ELA analysis (error-level analysis) that we have mentioned earlier, and second exiftool is a command-line application so it doesn't have graphical interface. The command-line is easy to use and install.
@@ -461,7 +461,8 @@ photo
 
 **Confirming location**
 
-Google maps, and google earth are one of the most used tools to verify locations, and geolocate incidents. 
+Google maps, and google earth are one of the most used tools to verify locations, and geolocate incidents. Everything you do on google earth, and google maps is traced back to your Gmail which means that it would be possible to know that you are looking at specific locations to verify. 
+Use a seperate Gmail account than your persoanl Gmail if you want to use google earth and google maps for your investigation without exposing your real email so it becomes harder to identify you as a person working on a specific investigation.
 
 You can use OpenstreetMap https://www.openstreetmap.org/#map=11/34.7337/36.7170 and wikimapia http://wikimapia.org/#lang=de&lat=52.516700&lon=13.400000&z=12&m=b to verify a location instead of google maps which stores and analyse everything you do search on.
 
