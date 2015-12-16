@@ -477,12 +477,12 @@ Read more about secure communicatrion here:
 https://securityinabox.org/en/guide/secure-communication
 
 **STEP 5:** Make sure to back up relevant content you find, sites you visit, social media accounts and conversations you have with sources of information. 
-Visual evdience such as photos and videos that you find online can disappear fromt to analyse later on. the internet for many reasons. You need to make sure that you do back up different type of info you find online as it will help you later on to go back to it if it's has been removed to verify and analyse it. 
+Visual evdience such as photos and videos that you find online can disappear from the internet for many reasons. You need to make sure that you do back up different type of info you find online as it will help you later on to go back to it if it's has been removed to verify and analyse it. 
 
 You can use cloud based services to back-up websites, and social media accounts such as:
 - Archive.is
 - Archive.org
-The archives will provide you with an ID for every page you submit. Keep the codes on your local computer so you can get back to pages you wan
+The archives will provide you with an ID for every page you submit. Keep the codes on your local computer so you can get back to pages you wan to analyse later on.
 
 Note: Make sure that you use the above services Over Tor browser to hide your location.
 
