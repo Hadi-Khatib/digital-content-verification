@@ -482,9 +482,9 @@ Visual evdience such as photos and videos that you find online can disappear fro
 You can use cloud based services to back-up websites, and social media accounts such as:
 - Archive.is
 - Archive.org
-The archives will provide you with an ID for every page you submit. Keep the codes on your local computer so you can get back to pages you wan to analyse later on.
+The archives will provide you with an ID for every page you submit. Keep the codes on your local computer so you can get back to pages you want to analyse later on.
 
-Note: Make sure that you use the above services Over Tor browser to hide your location.
+Note: Make sure that you use the above online archives Over Tor browser to hide your location.
 
 
 ## Tools, and resources to look at
