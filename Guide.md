@@ -476,6 +476,9 @@ You can use cloud based services such as:
 Verification handbook
 http://verificationhandbook.com/
 
+The observers verification guide of France24
+http://observers.france24.com/en/20151110-observers-guide-verifying-photos-videos-social-media-networks
+
 FB graph search tool, especially to dig up photos that
 you cannot find on their timeline:
 http://graph.tips/
