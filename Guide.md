@@ -473,11 +473,17 @@ You can use cloud based services such as:
 
 ## Tools, and resources to look at
 
-Verification handbook
+**Verification handbook**
 http://verificationhandbook.com/
 
-The observers verification guide of France24
+**The observers verification guide of France24**
 http://observers.france24.com/en/20151110-observers-guide-verifying-photos-videos-social-media-networks
+
+**Arab Citizen media guides on**
+
+**fact checking**http://arabcitizenmedia.org/topic/introduction-to-fact-checking/
+
+**and verification tools**http://arabcitizenmedia.org/topic/introducing-online-verification-tools/
 
 FB graph search tool, especially to dig up photos that
 you cannot find on their timeline:
