@@ -447,7 +447,9 @@ You can use Maltego https://www.paterva.com/web6/products/maltego.php instead of
 - whois command for windows https://technet.microsoft.com/en-us/sysinternals/whois.aspx
 
 Consider exiftool  http://www.sno.phy.queensu.ca/~phil/exiftool/ as an alternative to fotoforensics http://fotoforensics.com/ which has been featured earlier to review the exif data on a photo. You will be able to extract metadata from ohotos which contain information such as the device used to take the photo, date, location, last programme used to edit the photo (if it has been edited). By using exiftool you won't need to upload your photo online on a cloud based service that you don't trust how they deal with your data. Everything is done locally on your computer with exiftool, no 3rd party is involved. 
-There are down sides into using exiftool as well. First it doesn't support ELA analysis (error-level analysis) that we have mentioned earlier, and second exiftool is a command-line application so it doesn't have graphical interface. The command-line is easy to use and install. 
+There are down sides into using exiftool as well. First it doesn't support ELA analysis (error-level analysis) that we have mentioned earlier, and second exiftool is a command-line application so it doesn't have graphical interface. The command-line is easy to use and install.
+
+photo
 
 **Confirming location**
 
